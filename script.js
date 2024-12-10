@@ -1,0 +1,1 @@
+document.getElementById('message').textcontent = 'texto alterado pelo javascript'
